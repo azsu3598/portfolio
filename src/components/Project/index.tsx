@@ -10,7 +10,7 @@ const Project = ({ project }: Pick<DataProps, "project">) => {
         <SectionTitle>Team Project</SectionTitle>
         <div className="flex flex-col gap-24">
           {[...project]
-            .reverse()
+            // .reverse()
             .filter((project) => project.isTeam)
             .map((project) => (
               <ProjectItem key={project.id} {...project} />
@@ -21,7 +21,7 @@ const Project = ({ project }: Pick<DataProps, "project">) => {
         <SectionTitle>Personal Project</SectionTitle>
         <div className="flex flex-col gap-24">
           {[...project]
-            .reverse()
+            // .reverse()
             .filter((project) => !project.isTeam)
             .map((project) => (
               <ProjectItem key={project.id} {...project} />

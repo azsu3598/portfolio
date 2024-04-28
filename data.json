@@ -27,7 +27,8 @@
       "description": "로그 라이크 형식의 게임으로서 주사위를 통해서 보드형식의 미로를 탈출하는 3D기반 게임",
       "isTeam": true,
       "period": ["2022. 03", "2022. 07"],
-      "stack": ["Unity", "C#"]
+      "stack": ["Unity", "C#"],
+      "imgSrc": ["0.png"]
     },
     {
       "id": 1,
@@ -36,7 +37,8 @@
       "repoUrl": "https://github.com/azsu3598/GraduateProject?tab=readme-ov-file",
       "isTeam": true,
       "period": ["2022. 09", "2022. 12"],
-      "stack": ["Unity", "C#"]
+      "stack": ["Unity", "C#"],
+      "imgSrc": ["1.png"]
     },
     {
       "id": 2,
@@ -45,16 +47,18 @@
       "repoUrl": "https://github.com/azsu3598/GraduateProject?tab=readme-ov-file",
       "isTeam": true,
       "period": ["2022. 09", "2022. 12"],
-      "stack": ["Unity", "C#"]
+      "stack": ["Unity", "C#"],
+      "imgSrc": ["2.png"]
     },
     {
-      "id": 1,
+      "id": 3,
       "name": "첫번째 개인 프로젝트",
       "description": "LOL World championship(통칭 ‘롤드컵’)의 데이터를 분석해 봄으로써 데이터 분석 라이브러리 사용의 숙련도 향상 및 시각화를 통한 데이터를 통해서 선수들의 스탯 분석",
       "repoUrl": "https://github.com/sjoleee/",
       "isTeam": false,
       "period": ["2021. 11", "2021. 12"],
-      "stack": ["Python"]
+      "stack": ["Python"],
+      "imgSrc": ["3.png"]
     }
   ],
 
@@ -70,15 +74,21 @@
   "education": [
     {
       "id": 0,
-      "name": "첫번째 교육",
-      "period": ["2013. 02", "2020. 02"],
-      "description": "첫번째 교육에 대한 간략한 설명"
+      "name": "2급소방안전관리자(정규)",
+      "period": ["2022. 02", "2022. 02"],
+      "description": "한국소방원"
     },
     {
       "id": 1,
-      "name": "두번째 교육",
+      "name": "클라우드 시스템 엔지니어 단기직무과정(AWS)",
       "period": ["2013. 02", "2020. 02"],
-      "description": "두번째 교육에 대한 간략한 설명"
+      "description": "동양미래대학교"
+    },
+    {
+      "id": 1,
+      "name": "Aws를 deepracer를 이용한 자율주행자동차 구현",
+      "period": ["2021. 09", "2021. 10"],
+      "description": "동양미래대학교 마이스터 사업단"
     }
   ],
 

@@ -26,6 +26,7 @@
       "name": "첫번째 팀 프로젝트",
       "description": "로그 라이크 형식의 게임으로서 주사위를 통해서 보드형식의 미로를 탈출하는 3D기반 게임",
       "isTeam": true,
+      "repoUrl": "https://github.com/azsu3598/team-project?tab=readme-ov-file#team-project",
       "period": ["2022. 03", "2022. 07"],
       "stack": ["Unity", "C#"],
       "imgSrc": ["0.png"]
@@ -44,7 +45,6 @@
       "id": 2,
       "name": "세번째 팀 프로젝트",
       "description": "2D 플랫폼 및 사이드뷰 게임으로서 캐릭터가 움직이는 것이 아닌 맵과 배경이 움직이도록 하여 캐릭터가 움직이는 느낌을 받도록 하는 게임",
-      "repoUrl": "https://github.com/azsu3598/GraduateProject?tab=readme-ov-file",
       "isTeam": true,
       "period": ["2022. 09", "2022. 12"],
       "stack": ["Unity", "C#"],
@@ -52,13 +52,33 @@
     },
     {
       "id": 3,
+      "name": "네번째 팀 프로젝트",
+      "description": "커뮤니티 기능과 분석 기능을 통합한 축구 커뮤니티 사이트",
+      "repoUrl": "https://github.com/sks8960/Football-Predict",
+      "isTeam": true,
+      "period": ["2023. 03", "2023. 11"],
+      "stack": ["Node.js", "Mysql", "Mongodb", "React"],
+      "imgSrc": ["3.png"]
+    },
+    {
+      "id": 4,
       "name": "첫번째 개인 프로젝트",
       "description": "LOL World championship(통칭 ‘롤드컵’)의 데이터를 분석해 봄으로써 데이터 분석 라이브러리 사용의 숙련도 향상 및 시각화를 통한 데이터를 통해서 선수들의 스탯 분석",
-      "repoUrl": "https://github.com/sjoleee/",
       "isTeam": false,
+      "repoUrl": "https://github.com/azsu3598/LOL-BigData",
       "period": ["2021. 11", "2021. 12"],
       "stack": ["Python"],
-      "imgSrc": ["3.png"]
+      "imgSrc": ["4.png"]
+    },
+    {
+      "id": 5,
+      "name": "두번째 개인 프로젝트",
+      "description": "SpringBoot를 이용한 블로그 만들기",
+      "isTeam": false,
+      "repoUrl": "https://github.com/azsu3598/springboot-blog",
+      "period": ["2024. 04", "2024. 04"],
+      "stack": ["SpringBoot"],
+      "imgSrc": ["5.png"]
     }
   ],
 

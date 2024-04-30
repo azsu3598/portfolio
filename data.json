@@ -23,7 +23,7 @@
   "project": [
     {
       "id": 0,
-      "name": "첫번째 팀 프로젝트",
+      "name": "미로",
       "description": "로그 라이크 형식의 게임으로서 주사위를 통해서 보드형식의 미로를 탈출하는 3D기반 게임",
       "isTeam": true,
       "repoUrl": "https://github.com/azsu3598/team-project?tab=readme-ov-file#team-project",
@@ -33,7 +33,7 @@
     },
     {
       "id": 1,
-      "name": "두번째 팀 프로젝트",
+      "name": "Runner",
       "description": "로그 라이크 형식의 게임으로서 주사위를 통해서 보드형식의 미로를 탈출하는 2D기반 게임",
       "repoUrl": "https://github.com/azsu3598/GraduateProject?tab=readme-ov-file",
       "isTeam": true,
@@ -43,7 +43,7 @@
     },
     {
       "id": 2,
-      "name": "세번째 팀 프로젝트",
+      "name": "Mass",
       "description": "2D 플랫폼 및 사이드뷰 게임으로서 캐릭터가 움직이는 것이 아닌 맵과 배경이 움직이도록 하여 캐릭터가 움직이는 느낌을 받도록 하는 게임",
       "isTeam": true,
       "period": ["2022. 09", "2022. 12"],
@@ -52,7 +52,7 @@
     },
     {
       "id": 3,
-      "name": "네번째 팀 프로젝트",
+      "name": "MAC",
       "description": "커뮤니티 기능과 분석 기능을 통합한 축구 커뮤니티 사이트",
       "repoUrl": "https://github.com/sks8960/Football-Predict",
       "isTeam": true,
